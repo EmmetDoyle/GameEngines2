@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Bullet
   - Enemy
+  - RedTeam
+  - BlueTeam
+  - Crystal
   layers:
   - Default
   - TransparentFX

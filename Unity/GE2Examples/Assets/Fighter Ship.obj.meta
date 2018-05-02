@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 7e341249c1d6cf9438102435bc09914c
+timeCreated: 1525160778
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Component_05_Base_01
+    100002: Component_05_Pipe_01
+    100004: Component_05_Plate_01
+    100006: Component_05_Plate_02
+    100008: Component_05_Plate_03
+    100010: Component_05_Plate_04
+    100012: Component_05_Screw_004
+    100014: Component_05_Screw_005
+    100016: Component_05_Screw_006
+    100018: Component_05_Screw_007
+    100020: Component_05_Screw_008
+    100022: Component_05_Screw_009
+    100024: Component_05_Screw_01
+    100026: Component_05_Screw_010
+    100028: Component_05_Screw_011
+    100030: Component_05_Screw_012
+    100032: Component_05_Screw_02
+    100034: Component_05_Screw_03
+    100036: Component_05_Wheel_01
+    100038: Cylinder
+    100040: //RootNode
+    100042: Path_0
+    100044: Tube
+    400000: Component_05_Base_01
+    400002: Component_05_Pipe_01
+    400004: Component_05_Plate_01
+    400006: Component_05_Plate_02
+    400008: Component_05_Plate_03
+    400010: Component_05_Plate_04
+    400012: Component_05_Screw_004
+    400014: Component_05_Screw_005
+    400016: Component_05_Screw_006
+    400018: Component_05_Screw_007
+    400020: Component_05_Screw_008
+    400022: Component_05_Screw_009
+    400024: Component_05_Screw_01
+    400026: Component_05_Screw_010
+    400028: Component_05_Screw_011
+    400030: Component_05_Screw_012
+    400032: Component_05_Screw_02
+    400034: Component_05_Screw_03
+    400036: Component_05_Wheel_01
+    400038: Cylinder
+    400040: //RootNode
+    400042: Path_0
+    400044: Tube
+    2100000: Component_05_Base_01Mat
+    2100002: Component_05_Pipe_01Mat
+    2100004: Component_05_Plate_01Mat
+    2100006: Component_05_Plate_02Mat
+    2100008: Component_05_Plate_03Mat
+    2100010: Component_05_Plate_04Mat
+    2100012: Component_05_Screw_004Mat
+    2100014: Component_05_Screw_005Mat
+    2100016: Component_05_Screw_006Mat
+    2100018: Component_05_Screw_007Mat
+    2100020: Component_05_Screw_008Mat
+    2100022: Component_05_Screw_009Mat
+    2100024: Component_05_Screw_01Mat
+    2100026: Component_05_Screw_010Mat
+    2100028: Component_05_Screw_011Mat
+    2100030: Component_05_Screw_012Mat
+    2100032: Component_05_Screw_02Mat
+    2100034: Component_05_Screw_03Mat
+    2100036: Component_05_Wheel_01Mat
+    2100038: CylinderMat
+    2100040: Path_0Mat
+    2100042: TubeMat
+    2300000: Component_05_Base_01
+    2300002: Component_05_Pipe_01
+    2300004: Component_05_Plate_01
+    2300006: Component_05_Plate_02
+    2300008: Component_05_Plate_03
+    2300010: Component_05_Plate_04
+    2300012: Component_05_Screw_004
+    2300014: Component_05_Screw_005
+    2300016: Component_05_Screw_006
+    2300018: Component_05_Screw_007
+    2300020: Component_05_Screw_008
+    2300022: Component_05_Screw_009
+    2300024: Component_05_Screw_01
+    2300026: Component_05_Screw_010
+    2300028: Component_05_Screw_011
+    2300030: Component_05_Screw_012
+    2300032: Component_05_Screw_02
+    2300034: Component_05_Screw_03
+    2300036: Component_05_Wheel_01
+    2300038: Cylinder
+    2300040: Path_0
+    2300042: Tube
+    3300000: Component_05_Base_01
+    3300002: Component_05_Pipe_01
+    3300004: Component_05_Plate_01
+    3300006: Component_05_Plate_02
+    3300008: Component_05_Plate_03
+    3300010: Component_05_Plate_04
+    3300012: Component_05_Screw_004
+    3300014: Component_05_Screw_005
+    3300016: Component_05_Screw_006
+    3300018: Component_05_Screw_007
+    3300020: Component_05_Screw_008
+    3300022: Component_05_Screw_009
+    3300024: Component_05_Screw_01
+    3300026: Component_05_Screw_010
+    3300028: Component_05_Screw_011
+    3300030: Component_05_Screw_012
+    3300032: Component_05_Screw_02
+    3300034: Component_05_Screw_03
+    3300036: Component_05_Wheel_01
+    3300038: Cylinder
+    3300040: Path_0
+    3300042: Tube
+    4300000: Component_05_Base_01
+    4300002: Component_05_Pipe_01
+    4300004: Component_05_Plate_01
+    4300006: Component_05_Plate_02
+    4300008: Component_05_Plate_03
+    4300010: Component_05_Plate_04
+    4300012: Component_05_Screw_004
+    4300014: Component_05_Screw_005
+    4300016: Component_05_Screw_006
+    4300018: Component_05_Screw_007
+    4300020: Component_05_Screw_008
+    4300022: Component_05_Screw_009
+    4300024: Component_05_Screw_01
+    4300026: Component_05_Screw_010
+    4300028: Component_05_Screw_011
+    4300030: Component_05_Screw_012
+    4300032: Component_05_Screw_02
+    4300034: Component_05_Screw_03
+    4300036: Component_05_Wheel_01
+    4300038: Cylinder
+    4300040: Path_0
+    4300042: Tube
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
